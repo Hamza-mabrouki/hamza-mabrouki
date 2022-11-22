@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Hamza Mabrouki</h1>
 <h3 align="center">A passionate CyberSecurity from Morocco</h3>
-<img align="right" alt="coding" width="350" src="https://www.analyticsinsight.net/wp-content/uploads/2022/05/Why-cybersecurity-jobs-should-be-more-than-We-didnt-get-hacked.gif">
+<img align="right" alt="coding" width="250" src="https://www.analyticsinsight.net/wp-content/uploads/2022/05/Why-cybersecurity-jobs-should-be-more-than-We-didnt-get-hacked.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hamza-mabrouki&label=Profile%20views&color=0e75b6&style=flat" alt="hamza-mabrouki" /> </p>
 
